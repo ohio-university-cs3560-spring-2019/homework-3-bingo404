@@ -13,5 +13,8 @@
 \begin{document}
 \maketitle
 
-$s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$. This is the condition for standard deviation of an informational index where $s$ is the variable for stddev, $N$ is the number of values in the set, $x_i$ is the $i$th element of the set, and $\overline{x}$ is the average of the data set. Standard deviation is the estimation of spread of the information and is helpful in looking at informational indexes that have a similar normal yet similar reaches.
+\begin{center}
+$s=\sqrt{\frac{1}{N-1}\sum_{i=1}^N(x_i-\bar{x})^2}$
+\end{center}
+This is the condition for standard deviation of an informational index where $s$ is the variable for stddev, $N$ is the number of values in the set, $x_i$ is the $i$th element of the set, and $\overline{x}$ is the average of the data set. Standard deviation is the estimation of spread of the information and is helpful in looking at informational indexes that have a similar normal yet similar reaches.
 \end{document}
